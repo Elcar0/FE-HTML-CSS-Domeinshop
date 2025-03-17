@@ -156,28 +156,35 @@ form {
 
 /*///////////// 3.2 Testimonial /////////////*/
 .review-box {
-    padding: 64px;
+    position: relative;
+    padding: 64px 96px 64px 150px;
     border-radius: 12px;
     box-shadow: 0 8px 18px 2px rgba(24, 39, 75, 0.12),
     0 6px 20px 4px rgba(24, 39, 75, 0.12);
 }
 
+.quote-icon {
+    position: absolute;
+    left: 100px;
+    top: 64px;
+
+}
+
 .review {
-margin-bottom: 24px;
+    margin-bottom: 24px;
 }
 
 .reviewer-avatar {
-width: 44px;
+    width: 44px;
     height: 44px;
     border-radius: 22px;
     vertical-align: middle;
 }
 
 .reviewer {
-font-style: italic;
+    font-style: italic;
     display: inline;
     margin-left: 24px;
-
 }
 
 
