@@ -17,7 +17,6 @@ Table of Contents:
         3.5 Footer
 ////////////////////////////////////////////////////////////////////////*/
 
-
 /*////////////////////////
     1. Global Styles
 ////////////////////////*/
@@ -25,7 +24,6 @@ Table of Contents:
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-
 }
 
 body {
@@ -74,11 +72,9 @@ a:hover {
     text-decoration: none;
 }
 
-
 /*////////////////////////
     3. Areas
 ////////////////////////*/
-
 
 /*///////////// 3.1 Header /////////////*/
 header {
@@ -90,7 +86,6 @@ header {
     overflow: hidden;
 }
 
-
 .header {
     padding: 150px 0 400px 0;
     margin: 0 auto;
@@ -100,18 +95,6 @@ header {
 
 .header-text {
     margin: 10px;
-}
-
-.domain-checker {
-
-}
-
-form {
-
-}
-
-.domain-input-box {
-
 }
 
 .domain-input {
@@ -146,7 +129,6 @@ form {
     background-color: #1C2B32;
     color: white;
     font-size: 18px;
-    /*outline: none;*/
 }
 
 .domain-input-button:hover {
@@ -167,7 +149,6 @@ form {
     position: absolute;
     left: 100px;
     top: 64px;
-
 }
 
 .review {
@@ -186,7 +167,6 @@ form {
     display: inline;
     margin-left: 24px;
 }
-
 
 /*///////////// 3.3 Support /////////////*/
 
